@@ -1,0 +1,12 @@
+.errorMsgStyle{
+    color: red;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.inputerr{
+    border-color: red;
+}
+.inputsucc{
+    border-color: green;
+}
